@@ -3,7 +3,7 @@
 namespace EdiExpert\WebApiModels;
 
 
-class WebapiModelsServiceProvider extends \Illuminate\Support\ServiceProvider
+class WebApiModelsServiceProvider extends \Illuminate\Support\ServiceProvider
 {
     /**
      * Register the service provider.
