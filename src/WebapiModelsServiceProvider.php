@@ -1,9 +1,9 @@
 <?php
 
-namespace EdiExpert\WebApiModels;
+namespace EdiExpert\WebapiModels;
 
 
-class WebApiModelsServiceProvider extends \Illuminate\Support\ServiceProvider
+class WebapiModelsServiceProvider extends \Illuminate\Support\ServiceProvider
 {
     /**
      * Register the service provider.

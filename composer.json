@@ -11,7 +11,7 @@
     "extra": {
       "laravel": {
         "providers": [
-          "EdiExpert\\WebApiModels\\WebApiModelsServiceProvider"
+          "EdiExpert\\WebapiModels\\WebapiModelsServiceProvider"
         ]
       }
     },
