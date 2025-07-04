@@ -1,0 +1,21 @@
+{
+    "name": "ediexpert/webapi-models",
+    "description": "Reusable Eloquent models for WebApi laravel applications",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+      "psr-4": {
+        "ediexpert\\WebapiModels\\": "src/"
+      }
+    },
+    "extra": {
+      "laravel": {
+        "providers": [
+          "ediexpert\\WebapiModels\\WebapiModelsServiceProvider"
+        ]
+      }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+  }
+  
